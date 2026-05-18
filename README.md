@@ -1,46 +1,22 @@
-# 🧛 POWER LEVEL
-
 <div align="center">
 
-<img src="https://progress-bar.dev/98/?scale=100&title=Node.js&width=500&color=00ff66"/>
-<br><br>
+# 🩸⚔️ 𝕾𝖆𝖎𝖓𝖙𝖃𝖔𝖗 ⚔️🩸
+### `Vampire Developer • WhatsApp Bot Creator • Node.js Lover`
 
-<img src="https://progress-bar.dev/95/?scale=100&title=JavaScript&width=500&color=ff0000"/>
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Welcome+to+my+dark+world...;Node.js+Developer;WhatsApp+Bot+Creator;Telegram+%40saintxor;Always+building+something+crazy..." />
 
-<img src="https://progress-bar.dev/90/?scale=100&title=HTML%20%2F%20CSS&width=500&color=111111"/>
-<br><br>
-
-<img src="https://progress-bar.dev/99/?scale=100&title=WhatsApp%20Bots&width=500&color=00ff66"/>
-<br><br>
-
-<img src="https://progress-bar.dev/85/?scale=100&title=UI%20Design&width=500&color=ff0000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff66,100:ff0000&height=220&section=header&text=SAINTXOR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 ---
 
-# ⚡ LOADING SYSTEM
+# 🧛 About Me
 
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark&hideBorder=true"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
-
-</div>
-
----
-
-# 🔥 ANIMATED STATUS
-
-<div align="center">
-
-```txt
-█▀▀ █▀█ █ █ ▀█▀ █▀▀ █▀█
-█▄▄ █▄█ ▀▄▀  █  ██▄ █▀▄
-
-LOADING DARK ENERGY...
-█████████████████████ 100%
+```yaml
+Name: Saintxor
+Focus: WhatsApp Bots & Automation
+Language: JavaScript / Node.js
+Editor: VS Code
+Vibe: Black ⚫ Green 🟢 Red 🔴
+Status: Building dark futuristic projects...
