@@ -1,28 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,35:00ff66,70:ff0000,100:000000&text=SAINTXOR&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Vampire%20Developer%20%E2%80%A2%20Node.js%20Engineer%20%E2%80%A2%20Bot%20Creator&descAlignY=58"/>
+<!-- ===== HEADER BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,30:00ff66,60:ff0000,100:000000&text=SAINTXOR&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Vampire%20Developer%20%7C%20Node.js%20Architect%20%7C%20Automation%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%A9%B8+Welcome+to+the+dark+side...;%F0%9F%94%A5+Advanced+WhatsApp+Bot+Developer;%F0%9F%9F%A2+Node.js+%7C+JavaScript+%7C+Automation;%F0%9F%94%B4+Black+Green+Red+Vampire+Theme;%F0%9F%93%A9+DM+me+on+Telegram+%40saintxor"/>
+<!-- ===== TYPE EFFECT ===== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF66&center=true&vCenter=true&width=900&lines=🩸+Welcome+to+the+dark+system...;⚡+Building+WhatsApp+Bot+Networks;🧠+AI+Automation+Engineer;🟢+Node.js+%7C+MongoDB+%7C+Baileys;🔴+Dark+Theme+Developer+Mode+Active"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/PROFILE-DARK%20VAMPIRE-black?style=for-the-badge&logo=github&logoColor=00ff66"/>
+<!-- ===== BADGES ===== -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff66?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VERSION-V6-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWER-UNLIMITED-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STACK-NODE.JS-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/THEME-VAMPIRE-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-ACTIVE-00ff66?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🩸 SYSTEM INFO
+# 🧠 SYSTEM OVERVIEW
 
-```yaml
-Name: Saintxor
-Alias: Vampire Coder
-Focus: WhatsApp Bots & Automation
-Main Language: JavaScript
-Runtime: Node.js
-Database: MongoDB / Firebase
-Tools: GitHub • VS Code • Baileys
-Theme: Black ⚫ Green 🟢 Red 🔴
-Status: Building futuristic projects...
+```txt
+A dark-mode developer system specialized in:
+- WhatsApp automation
+- AI bot engineering
+- backend systems
+- scalable API integration
+
+Built for speed. Designed for silence. Made for control.
